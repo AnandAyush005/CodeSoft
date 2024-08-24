@@ -1,13 +1,13 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    color: #333;
+    color: #333333dc;
 }
 
 header {
-    background: #333;
+    background: #333333dc;
     color: #fff;
     padding: 1rem;
     text-align: center;
@@ -41,7 +41,8 @@ section h2 {
 }
 
 #skills li {
-    background: #f4f4f4;
+    background: rgb(215, 235, 253);
+    
     margin: 0.5rem 0;
     padding: 0.5rem;
     border-radius: 5px;
